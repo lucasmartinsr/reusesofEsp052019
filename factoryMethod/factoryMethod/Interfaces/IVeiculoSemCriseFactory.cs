@@ -6,7 +6,7 @@ using System.Text;
 
 namespace factoryMethod.Interfaces
 {
-    public interface IVeiculoFactory
+    public interface IVeiculoSemCriseFactory: IVeiculoFactory
     {
         Veiculo Crie(EnumCondicaoMeteologica condicaoMeterologica, int quantidadeDePessoas, int quantidadeKM);
     }

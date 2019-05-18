@@ -6,7 +6,7 @@ namespace factoryMethod.Fabricas
 {
     public class VeiculoFactory : IVeiculoFactory
     {
-        public Veiculo Crie(EnumCondicaoMeteologica condicaoMeterologica, int quantidadeDePessoas, EnumTipoDeCombustivel tipoDeCombustivel, int distanciaEmKM)
+        public Veiculo Crie(EnumCondicaoMeteologica condicaoMeterologica, int quantidadeDePessoas, int distanciaEmKM)
         {
             if(distanciaEmKM <= 500)
             {

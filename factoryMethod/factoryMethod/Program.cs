@@ -10,7 +10,7 @@ namespace factoryMethod
     {
         static void Main(string[] args)
         {
-            IVeiculoFactory veiculoFactory = new VeiculoComCriseFactory();
+            IVeiculoFactory veiculoFactory = new VeiculoFactory();
             var veiculo = veiculoFactory.Crie(EnumCondicaoMeteologica.Sol, 3, 200);
             Console.WriteLine($"Veículo: {veiculo.GetType().Name}");
             Console.WriteLine($"Tipo de combustível: {veiculo.TipoDeCombustivel.ObtenhaDescricao()}");
