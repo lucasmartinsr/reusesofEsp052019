@@ -1,0 +1,11 @@
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\bin\Debug\netcoreapp2.1\Decorator.deps.json
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\bin\Debug\netcoreapp2.1\Decorator.runtimeconfig.json
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\bin\Debug\netcoreapp2.1\Decorator.runtimeconfig.dev.json
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\bin\Debug\netcoreapp2.1\Decorator.dll
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\bin\Debug\netcoreapp2.1\Decorator.pdb
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\obj\Debug\netcoreapp2.1\Decorator.csprojAssemblyReference.cache
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\obj\Debug\netcoreapp2.1\Decorator.csproj.CoreCompileInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\obj\Debug\netcoreapp2.1\Decorator.AssemblyInfoInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\obj\Debug\netcoreapp2.1\Decorator.AssemblyInfo.cs
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\obj\Debug\netcoreapp2.1\Decorator.dll
+C:\Dev\Unialfa\reusesofEsp052019\Decorator\obj\Debug\netcoreapp2.1\Decorator.pdb
