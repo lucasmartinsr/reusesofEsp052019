@@ -6,7 +6,7 @@ namespace factoryMethod.Fabricas
 {
     public class VeiculoFactory : IVeiculoFactory
     {
-        public Veiculo Create(EnumCondicaoMeteologica condicaoMeteologica, int quantidadeDePessoas, int distanciaEmKM)
+        public Veiculo Create(EnumCondicaoMeteologica condicaoMeterologica, int quantidadeDePessoas, int distanciaEmKM)
         {
             if(distanciaEmKM <= 500)
             {
@@ -14,11 +14,11 @@ namespace factoryMethod.Fabricas
                 {
                     return new Tesla(EnumTipoDeCombustivel.Eletricidade,EnumCategoriaVeiculo.Convencional);
                 }
-                else if (quantidadeDePessoas <= 5 && condicaoMeteologica.Equals(EnumCondicaoMeteologica.Sol))
+                else if (quantidadeDePessoas <= 5 && condicaoMeterologica.Equals(EnumCondicaoMeteologica.Sol))
                 {
                     return new Escort(EnumTipoDeCombustivel.Alcool, EnumCategoriaVeiculo.Conversivel);
                 }
-                else if (quantidadeDePessoas <= 5 && condicaoMeteologica.Equals(EnumCondicaoMeteologica.Chuva))
+                else if (quantidadeDePessoas <= 5 && condicaoMeterologica.Equals(EnumCondicaoMeteologica.Chuva))
                 {
                     return new Opala(EnumTipoDeCombustivel.Gasolina, EnumCategoriaVeiculo.Convencional);
                 }

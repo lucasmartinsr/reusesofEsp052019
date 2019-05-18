@@ -8,6 +8,6 @@ namespace factoryMethod.Interfaces
 {
     public interface IVeiculoFactory
     {
-        Veiculo Create(EnumCondicaoMeteologica condicaoMeteologica, int quantidadeDePessoas, int quantidadeKM);
+        Veiculo Create(EnumCondicaoMeteologica condicaoMeterologica, int quantidadeDePessoas, int quantidadeKM);
     }
 }
