@@ -1,4 +1,7 @@
-﻿using System;
+﻿using factoryMethod.Enums;
+using factoryMethod.Fabricas;
+using factoryMethod.Interfaces;
+using System;
 
 namespace factoryMethod
 {
@@ -6,7 +9,10 @@ namespace factoryMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IVeiculoFactory veiculoFactory = new VeiculoFactory();
+            var veiculo = veiculoFactory.Create(EnumCondicaoMeteologica.Sol, 3, 200);
+            Console.WriteLine($"Veículo: {veiculo.GetType().Name}");
+            Console.ReadKey();
         }
     }
 }

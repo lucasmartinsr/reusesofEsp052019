@@ -1,0 +1,11 @@
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.deps.json
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.runtimeconfig.json
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.runtimeconfig.dev.json
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.dll
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.pdb
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.csprojAssemblyReference.cache
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.csproj.CoreCompileInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.AssemblyInfoInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.AssemblyInfo.cs
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.dll
+C:\Dev\Unialfa\reusesofEsp052019\factoryMethod\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.pdb
