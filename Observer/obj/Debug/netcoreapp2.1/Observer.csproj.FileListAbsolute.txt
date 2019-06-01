@@ -1,0 +1,11 @@
+C:\Dev\Unialfa\reusesofEsp052019\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+C:\Dev\Unialfa\reusesofEsp052019\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+C:\Dev\Unialfa\reusesofEsp052019\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+C:\Dev\Unialfa\reusesofEsp052019\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+C:\Dev\Unialfa\reusesofEsp052019\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+C:\Dev\Unialfa\reusesofEsp052019\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+C:\Dev\Unialfa\reusesofEsp052019\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+C:\Dev\Unialfa\reusesofEsp052019\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+C:\Dev\Unialfa\reusesofEsp052019\Observer\obj\Debug\netcoreapp2.1\Observer.pdb
