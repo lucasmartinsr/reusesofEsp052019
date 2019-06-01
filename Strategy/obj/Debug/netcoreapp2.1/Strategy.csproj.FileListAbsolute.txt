@@ -1,0 +1,11 @@
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\bin\Debug\netcoreapp2.1\Strategy.deps.json
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\bin\Debug\netcoreapp2.1\Strategy.runtimeconfig.json
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\bin\Debug\netcoreapp2.1\Strategy.runtimeconfig.dev.json
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\bin\Debug\netcoreapp2.1\Strategy.dll
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\bin\Debug\netcoreapp2.1\Strategy.pdb
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\obj\Debug\netcoreapp2.1\Strategy.csprojAssemblyReference.cache
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\obj\Debug\netcoreapp2.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\obj\Debug\netcoreapp2.1\Strategy.AssemblyInfoInputs.cache
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\obj\Debug\netcoreapp2.1\Strategy.AssemblyInfo.cs
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\obj\Debug\netcoreapp2.1\Strategy.dll
+C:\Dev\Unialfa\reusesofEsp052019\Strategy\obj\Debug\netcoreapp2.1\Strategy.pdb
